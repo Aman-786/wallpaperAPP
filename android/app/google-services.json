@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321739233292",
+    "project_id": "unsplah-api-project",
+    "storage_bucket": "unsplah-api-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321739233292:android:ca59512a8fc01d88c2b629",
+        "android_client_info": {
+          "package_name": "com.example.unsplasnapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321739233292-ge8p22a6c87918ef6ldqsjg5k342vb6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBDzIlRFKjiu6h7F3Y1Jd7KOzrT_9Yq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321739233292-ge8p22a6c87918ef6ldqsjg5k342vb6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
